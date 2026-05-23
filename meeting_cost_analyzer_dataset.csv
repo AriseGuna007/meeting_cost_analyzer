@@ -1,0 +1,201 @@
+﻿meeting_id,department,meeting_type,organizer,num_attendees,duration_minutes,avg_hourly_salary,meeting_date,start_time,employee_level,meeting_mode,agenda_shared,followup_required,productivity_score
+MID0001,Engineering,Client Call,David Brown,42,91,85,2025-03-01,15:52,Senior,Hybrid,No,No,6.6
+MID0002,IT,Training,Sean Sanford,32,93,90,2025-11-27,08:16,Senior,Offline,Yes,Yes,4.9
+MID0003,Marketing,Project Review,Virginia Moore,40,65,64,2025-06-12,09:22,Director,Online,No,No,5
+MID0004,Engineering,Client Call,Paula Gould,29,16,18,2025-11-03,10:43,Junior,Offline,Yes,Yes,6.8
+MID0005,Engineering,Training,Robert Valencia,17,38,53,2025-12-16,08:57,Senior,Hybrid,Yes,Yes,7.5
+MID0006,HR,Training,Brittany Thompson,36,93,78,2025-06-24,13:55,Senior,Hybrid,Yes,No,6.2
+MID0007,HR,Team Sync,Michael Monroe,39,137,107,2025-05-12,17:22,Senior,Hybrid,Yes,Yes,4.5
+MID0008,Finance,Project Review,Diana Baker,10,162,91,2025-01-24,17:59,Director,Online,Yes,No,5.7
+MID0009,Finance,Strategy Meeting,Samantha Nichols,14,50,93,2025-08-23,08:44,Senior,Hybrid,Yes,Yes,8.7
+MID0010,Finance,Team Sync,Jason Ho,50,147,97,2025-06-13,15:13,Director,Offline,Yes,No,4
+MID0011,Finance,Project Review,Jesse Henry,11,33,86,2025-10-22,10:54,Junior,Online,Yes,Yes,7.2
+MID0012,IT,Training,Michael Fischer,14,99,31,2025-05-12,12:08,Director,Online,No,No,7.9
+MID0013,HR,Strategy Meeting,Wendy Estes,47,49,77,2025-07-30,11:46,Junior,Offline,No,No,7.6
+MID0014,Marketing,Standup,Mary Allen,6,68,57,2025-07-03,16:37,Manager,Hybrid,Yes,No,8.6
+MID0015,Operations,Strategy Meeting,John Miller,36,153,70,2025-03-26,16:59,Director,Hybrid,Yes,Yes,4.1
+MID0016,Sales,Standup,Barbara Roberts,47,91,34,2025-09-03,15:25,Mid,Online,Yes,Yes,5.4
+MID0017,Marketing,Team Sync,Patricia Martinez,37,89,96,2025-11-19,16:59,Junior,Offline,Yes,No,7.4
+MID0018,Sales,Training,Christopher Diaz,2,138,47,2025-07-25,17:40,Junior,Hybrid,No,Yes,6.7
+MID0019,IT,Strategy Meeting,Julie Daniel,37,78,24,2025-07-12,15:38,Junior,Hybrid,No,No,7.5
+MID0020,Marketing,Team Sync,Elizabeth Burgess,39,102,54,2025-11-08,11:33,Mid,Hybrid,Yes,No,4.3
+MID0021,Marketing,Team Sync,Mary Snyder,46,48,84,2025-06-25,17:50,Junior,Online,No,Yes,8
+MID0022,IT,Client Call,John Miller,26,132,63,2025-02-04,09:53,Senior,Hybrid,Yes,Yes,5.3
+MID0023,HR,Training,Daniel Kim,48,35,89,2025-08-28,15:01,Mid,Hybrid,No,Yes,6.5
+MID0024,Finance,Standup,Kevin Cooper,50,160,63,2025-04-07,17:56,Senior,Offline,No,Yes,3.5
+MID0025,Operations,Standup,Miranda Taylor,29,126,83,2025-06-02,12:41,Junior,Hybrid,Yes,Yes,6.1
+MID0026,Engineering,Client Call,Shane Winters,23,91,42,2025-09-09,14:49,Junior,Hybrid,No,Yes,6.3
+MID0027,Finance,Training,Claudia Santana,41,80,113,2025-11-11,14:04,Manager,Hybrid,No,Yes,6
+MID0028,Engineering,Training,Michael Harding,32,99,104,2025-03-11,15:56,Senior,Hybrid,Yes,Yes,6.9
+MID0029,Engineering,Project Review,Stacie Edwards,18,123,48,2025-07-05,12:29,Director,Hybrid,No,Yes,6.8
+MID0030,Sales,Team Sync,David Garcia,13,51,107,2025-02-17,10:26,Senior,Online,Yes,Yes,8
+MID0031,Sales,Training,Renee Howard,5,172,85,2025-09-17,10:26,Mid,Offline,No,Yes,6.7
+MID0032,Engineering,Training,Connie Ortiz,7,95,94,2025-08-05,08:50,Director,Offline,Yes,No,8.4
+MID0033,Marketing,Strategy Meeting,Rebecca Lindsey,18,135,112,2025-08-11,17:51,Junior,Hybrid,Yes,Yes,5.8
+MID0034,IT,Client Call,Steven Tran,2,48,20,2025-10-27,08:36,Senior,Hybrid,No,No,7.6
+MID0035,IT,Project Review,Todd Campbell,32,140,16,2025-12-25,15:10,Manager,Hybrid,No,Yes,5.3
+MID0036,Marketing,Team Sync,Rachel Shepherd,24,163,39,2025-11-26,14:41,Manager,Offline,No,No,4.3
+MID0037,HR,Team Sync,Aaron Mason,48,114,78,2025-07-18,11:32,Manager,Online,Yes,No,5.5
+MID0038,Finance,Project Review,Lindsey Marshall,3,83,74,2025-10-18,12:04,Mid,Online,Yes,No,8.3
+MID0039,Engineering,Client Call,Sean Leblanc,30,87,15,2025-05-17,13:43,Junior,Hybrid,Yes,No,6.2
+MID0040,Finance,Training,Rhonda Nicholson,46,67,22,2025-08-21,08:29,Senior,Hybrid,No,No,5.2
+MID0041,Sales,Training,Gary Moore,30,163,50,2025-10-10,10:26,Senior,Offline,No,No,5.8
+MID0042,Sales,Team Sync,Brenda Simpson,19,152,16,2025-06-19,10:59,Director,Offline,Yes,Yes,6.6
+MID0043,HR,Standup,Anna Kemp,42,54,76,2025-10-27,09:36,Manager,Offline,No,Yes,5.7
+MID0044,Sales,Standup,James Watson,30,179,77,2025-08-15,11:15,Manager,Offline,No,No,2.9
+MID0045,HR,Training,Alejandra Estrada,34,104,28,2025-02-05,17:29,Manager,Online,Yes,Yes,6.7
+MID0046,HR,Training,Angel Taylor,24,43,77,2025-07-26,16:29,Mid,Hybrid,No,Yes,8.8
+MID0047,IT,Project Review,Jay Briggs,30,62,74,2025-05-01,08:26,Mid,Hybrid,No,No,8.3
+MID0048,Engineering,Project Review,Charles Mayo,40,57,85,2025-04-20,12:13,Mid,Offline,No,No,5.2
+MID0049,Engineering,Strategy Meeting,Loretta Wilson,20,25,20,2025-01-28,16:07,Director,Hybrid,No,Yes,8.9
+MID0050,HR,Strategy Meeting,Jennifer Lopez,23,171,107,2025-10-03,09:11,Senior,Hybrid,Yes,Yes,3.6
+MID0051,Sales,Training,Denise Carter,5,137,70,2025-08-16,12:40,Director,Offline,Yes,No,5.5
+MID0052,Operations,Client Call,Dylan Bailey,35,124,107,2025-12-27,17:56,Junior,Offline,No,No,6.6
+MID0053,Marketing,Team Sync,Caroline Miller,15,120,54,2025-09-10,16:48,Junior,Hybrid,Yes,Yes,5
+MID0054,HR,Strategy Meeting,Michael Johnson,7,168,115,2025-03-27,16:01,Junior,Offline,Yes,Yes,5
+MID0055,HR,Client Call,Matthew Gibson,50,133,30,2025-07-10,14:18,Junior,Offline,Yes,No,5.5
+MID0056,Marketing,Client Call,Justin Mata,27,98,59,2025-08-09,17:12,Manager,Hybrid,No,Yes,7.2
+MID0057,Finance,Training,Lisa Miller,34,23,16,2025-10-20,08:33,Senior,Online,No,Yes,7.4
+MID0058,Sales,Standup,Elizabeth Hill,14,95,22,2025-10-09,11:04,Mid,Offline,Yes,Yes,7.4
+MID0059,Finance,Team Sync,Gloria Lucas,46,87,57,2025-05-28,10:15,Manager,Offline,No,Yes,4.7
+MID0060,Sales,Strategy Meeting,Kristina Weber,22,163,75,2025-07-19,16:28,Senior,Hybrid,Yes,No,3.4
+MID0061,Marketing,Client Call,Mark Good,6,155,38,2025-10-12,10:01,Senior,Offline,Yes,No,5
+MID0062,Finance,Strategy Meeting,Alexandria Fox,27,176,102,2025-02-04,10:57,Director,Hybrid,Yes,No,4.6
+MID0063,Engineering,Client Call,Katherine Walker,12,81,66,2025-03-08,08:06,Mid,Hybrid,Yes,No,8.8
+MID0064,Sales,Client Call,Frank Edwards,26,19,58,2025-07-10,17:52,Mid,Offline,Yes,No,8.8
+MID0065,HR,Team Sync,Sean Cortez MD,49,167,58,2025-03-12,10:45,Director,Online,Yes,Yes,3.9
+MID0066,Engineering,Training,Caitlin Miller,12,92,36,2025-03-01,13:40,Director,Online,No,No,6.8
+MID0067,Sales,Standup,Lawrence Richardson,46,94,105,2025-02-07,10:08,Junior,Online,No,Yes,5.7
+MID0068,Sales,Project Review,Alex Patton,41,62,30,2025-09-11,10:34,Mid,Hybrid,Yes,No,7.8
+MID0069,IT,Strategy Meeting,Tiffany Anderson,12,45,108,2025-06-10,11:14,Manager,Offline,Yes,No,7.4
+MID0070,IT,Strategy Meeting,Christina Franklin,47,131,66,2025-07-16,09:14,Manager,Online,No,Yes,5.8
+MID0071,Marketing,Project Review,Jessica Massey,24,144,39,2025-09-13,16:39,Senior,Hybrid,Yes,No,5
+MID0072,HR,Project Review,Jessica Hopkins,47,139,24,2025-03-22,15:57,Senior,Online,No,No,3.7
+MID0073,Engineering,Training,Steven Taylor,43,37,83,2025-01-09,12:13,Manager,Hybrid,No,Yes,7.1
+MID0074,IT,Client Call,Whitney Cruz,19,127,71,2025-04-17,14:38,Senior,Online,Yes,Yes,4.7
+MID0075,Engineering,Team Sync,Mariah Gonzalez,45,88,115,2025-03-15,11:15,Director,Offline,Yes,Yes,6.3
+MID0076,Engineering,Project Review,Gary Mcconnell,16,159,120,2025-11-11,11:07,Director,Online,No,No,4.7
+MID0077,Engineering,Team Sync,Leah Ford,9,16,70,2025-01-14,13:20,Director,Hybrid,Yes,No,8.4
+MID0078,IT,Training,Chloe Mcintyre,30,57,74,2025-09-05,13:46,Mid,Hybrid,Yes,Yes,5.7
+MID0079,Finance,Team Sync,Heather Jones,50,37,22,2025-08-28,08:05,Director,Offline,No,No,5.4
+MID0080,Engineering,Strategy Meeting,Jennifer Wise,11,55,58,2025-03-16,09:49,Manager,Online,Yes,No,8
+MID0081,Engineering,Strategy Meeting,Megan Hernandez,8,73,33,2025-12-27,10:55,Junior,Hybrid,Yes,No,7
+MID0082,Engineering,Team Sync,Derrick Johnson,41,100,68,2025-12-30,08:52,Manager,Online,No,Yes,4.3
+MID0083,Marketing,Team Sync,Robert Mcdonald,13,18,120,2025-05-26,08:01,Junior,Offline,No,Yes,8.1
+MID0084,Marketing,Project Review,Laura Brennan,15,151,116,2025-07-25,14:37,Manager,Offline,No,Yes,6.6
+MID0085,Operations,Client Call,Brian Henry,5,172,106,2025-02-18,16:07,Director,Hybrid,No,No,4.3
+MID0086,Finance,Training,Jason Klein,25,85,87,2025-03-02,16:37,Director,Hybrid,Yes,No,6.8
+MID0087,IT,Team Sync,William Dalton,4,174,67,2025-06-16,09:01,Director,Online,Yes,No,6
+MID0088,HR,Strategy Meeting,Lisa Hays,40,111,65,2025-10-15,09:29,Director,Offline,No,No,5.4
+MID0089,Marketing,Client Call,Sylvia Saunders,42,122,91,2025-12-17,13:48,Junior,Online,No,No,4.8
+MID0090,Operations,Standup,Jeffrey Moore,39,107,57,2025-02-05,17:07,Director,Hybrid,No,Yes,6.5
+MID0091,HR,Strategy Meeting,Michael Ingram,24,116,95,2025-09-13,08:29,Junior,Online,No,No,6.3
+MID0092,IT,Strategy Meeting,Hannah Graham,7,66,112,2025-09-05,12:45,Senior,Hybrid,No,No,8.3
+MID0093,Engineering,Client Call,Rachel Davis,19,21,35,2025-01-18,11:37,Senior,Hybrid,Yes,Yes,8.2
+MID0094,Engineering,Team Sync,Julia Gonzalez,48,123,22,2025-05-08,11:02,Mid,Online,Yes,No,3.7
+MID0095,IT,Standup,Alexandra Jones,6,178,46,2025-08-05,15:44,Mid,Hybrid,No,No,6.3
+MID0096,Finance,Client Call,Krystal Dawson,5,21,39,2025-09-03,08:12,Senior,Online,No,Yes,8.8
+MID0097,Operations,Training,Cynthia Randall,5,61,97,2025-04-10,09:55,Junior,Hybrid,Yes,No,6.9
+MID0098,IT,Training,Richard Jones DDS,23,34,46,2025-08-25,14:21,Manager,Online,Yes,Yes,8.5
+MID0099,Operations,Project Review,Robert Brown,28,98,52,2025-12-05,13:40,Senior,Offline,No,Yes,6.3
+MID0100,HR,Training,Tammy Harris,42,77,19,2025-04-07,18:00,Mid,Offline,No,Yes,7.2
+MID0101,Engineering,Training,Timothy Johnson,30,110,118,2025-09-10,13:21,Junior,Online,Yes,No,5.1
+MID0102,IT,Client Call,Tara Thomas,21,38,98,2025-10-13,17:41,Manager,Online,Yes,No,7.5
+MID0103,Sales,Project Review,Michael Sandoval,42,37,65,2025-04-04,08:52,Manager,Online,Yes,Yes,5.7
+MID0104,Engineering,Standup,James Fisher,45,18,85,2025-04-20,16:47,Mid,Online,No,No,6.6
+MID0105,Engineering,Team Sync,Erika Green,44,153,56,2025-11-21,11:08,Senior,Hybrid,Yes,Yes,3
+MID0106,Sales,Client Call,Jacob Johnson,36,149,102,2025-10-14,11:59,Director,Hybrid,Yes,No,5.6
+MID0107,IT,Client Call,Gary Carter,38,176,84,2025-02-06,13:56,Mid,Offline,Yes,No,3.9
+MID0108,HR,Training,Christopher Reeves,36,96,68,2025-10-21,11:06,Director,Online,No,Yes,5.1
+MID0109,Operations,Training,Cynthia Sullivan,35,127,53,2025-08-13,17:34,Senior,Hybrid,Yes,No,4.4
+MID0110,IT,Strategy Meeting,Michael Hill,20,132,87,2025-05-04,12:50,Manager,Offline,No,No,6.7
+MID0111,Marketing,Standup,Cheyenne Miller,41,81,27,2025-02-12,15:11,Senior,Online,No,No,4.5
+MID0112,IT,Team Sync,Rebecca Riley,41,115,16,2025-07-20,16:46,Mid,Offline,No,No,6
+MID0113,Operations,Team Sync,Lisa Mccarthy,32,151,52,2025-10-09,11:22,Mid,Online,Yes,Yes,5.1
+MID0114,Operations,Team Sync,Melinda Singleton,32,65,89,2025-05-11,10:45,Mid,Offline,No,Yes,7.3
+MID0115,Finance,Strategy Meeting,Michael Kennedy,23,84,35,2025-09-11,15:52,Mid,Offline,Yes,Yes,6
+MID0116,HR,Team Sync,Brianna Clark,32,112,106,2025-10-22,13:03,Manager,Hybrid,No,No,6.4
+MID0117,HR,Training,Bryan Hodge,49,179,40,2025-02-17,17:59,Manager,Hybrid,No,No,3.8
+MID0118,Sales,Standup,Gregory Maldonado,48,15,15,2025-03-04,11:59,Junior,Hybrid,No,No,6.9
+MID0119,Finance,Standup,Marco Smith,39,35,56,2025-08-21,16:13,Manager,Hybrid,No,No,6.2
+MID0120,IT,Client Call,Amanda Mckinney,24,25,90,2025-12-06,17:15,Mid,Offline,Yes,No,9
+MID0121,Engineering,Strategy Meeting,Mr. David Green,15,119,79,2025-10-27,12:30,Manager,Online,Yes,No,6.6
+MID0122,Engineering,Team Sync,Melissa Austin,5,71,112,2025-06-21,14:19,Mid,Offline,Yes,Yes,8
+MID0123,IT,Client Call,Stephanie Turner,34,62,38,2025-01-24,12:12,Senior,Hybrid,No,Yes,8
+MID0124,HR,Strategy Meeting,Elaine Moore,23,51,93,2025-09-06,10:55,Manager,Hybrid,Yes,No,7
+MID0125,Marketing,Team Sync,William Gardner,7,168,26,2025-11-07,17:47,Senior,Online,Yes,Yes,5.6
+MID0126,HR,Strategy Meeting,Amy Olson,23,98,113,2025-12-27,16:35,Director,Offline,Yes,Yes,5.6
+MID0127,HR,Client Call,Kimberly Barker,26,105,76,2025-05-24,17:09,Manager,Online,No,No,6.1
+MID0128,Finance,Strategy Meeting,Katherine Ruiz,18,95,77,2025-12-07,17:30,Director,Online,No,No,6.7
+MID0129,IT,Client Call,Daniel Mcgee,5,160,92,2025-03-30,16:25,Director,Hybrid,Yes,Yes,4.8
+MID0130,Finance,Standup,Jennifer Carrillo,30,159,97,2025-09-03,13:45,Manager,Hybrid,Yes,Yes,3.5
+MID0131,Sales,Strategy Meeting,Ronald Clarke,50,147,110,2025-06-01,09:13,Manager,Offline,Yes,Yes,2.4
+MID0132,Sales,Training,Angela Monroe,16,163,30,2025-02-28,08:31,Senior,Offline,No,No,4.9
+MID0133,Finance,Team Sync,Samuel Hester,44,99,120,2025-02-16,14:59,Junior,Online,Yes,Yes,5.1
+MID0134,Operations,Strategy Meeting,Matthew Burns,49,54,111,2025-07-15,13:17,Mid,Online,No,No,5
+MID0135,Engineering,Team Sync,Erik Rivers,37,60,52,2025-07-30,14:55,Mid,Offline,No,Yes,6.5
+MID0136,Sales,Standup,Travis Garcia,4,81,47,2025-02-25,12:31,Junior,Offline,No,No,6.8
+MID0137,Finance,Training,Kathy Edwards,28,113,32,2025-03-23,10:13,Mid,Hybrid,No,Yes,4.9
+MID0138,Engineering,Strategy Meeting,Amy Howard,33,87,77,2025-03-25,13:22,Junior,Online,No,No,7.3
+MID0139,IT,Project Review,David Blackburn,10,123,40,2025-09-15,10:36,Junior,Offline,No,Yes,7.5
+MID0140,Sales,Project Review,David Campbell,38,81,56,2025-11-17,17:55,Director,Online,Yes,Yes,6.5
+MID0141,HR,Strategy Meeting,Louis Harmon,13,102,25,2025-03-09,08:50,Manager,Hybrid,Yes,Yes,6.7
+MID0142,IT,Project Review,Teresa Williams,39,19,112,2025-09-04,10:04,Mid,Offline,No,Yes,7.7
+MID0143,Operations,Client Call,Gary Thornton,15,23,118,2025-09-27,14:19,Director,Hybrid,Yes,Yes,7.9
+MID0144,Engineering,Training,Robert Torres,42,141,105,2025-09-03,09:18,Manager,Hybrid,Yes,No,5
+MID0145,Operations,Client Call,Chad Barnes,12,52,43,2025-11-22,14:18,Director,Online,No,No,7.8
+MID0146,Engineering,Training,Bridget Valencia,2,28,35,2025-10-08,16:01,Director,Offline,No,No,8.2
+MID0147,Engineering,Client Call,Dawn Roth,44,122,102,2025-01-28,08:11,Mid,Offline,No,Yes,3.4
+MID0148,IT,Strategy Meeting,Derek Thompson,34,151,48,2025-02-25,16:50,Manager,Offline,Yes,Yes,4.6
+MID0149,Sales,Client Call,Gina Avila,29,169,64,2025-05-21,10:44,Junior,Online,Yes,Yes,4.1
+MID0150,Finance,Standup,Ronald Randall,21,36,63,2025-01-26,13:28,Director,Online,No,Yes,7
+MID0151,Operations,Strategy Meeting,Jessica Watson,38,104,73,2025-07-07,11:36,Junior,Offline,Yes,No,6.9
+MID0152,Engineering,Client Call,Jeffrey Thompson,7,156,35,2025-08-19,14:33,Director,Hybrid,Yes,Yes,5.3
+MID0153,Finance,Project Review,Wesley Walton,26,61,66,2025-04-24,12:42,Junior,Online,Yes,Yes,7.5
+MID0154,Marketing,Project Review,Mary Williams,45,88,85,2025-10-17,12:49,Director,Offline,Yes,No,6.5
+MID0155,Finance,Standup,Mark Potter,45,90,15,2025-03-24,14:51,Director,Offline,Yes,Yes,5.9
+MID0156,IT,Training,April Cordova,21,120,78,2025-02-22,08:07,Junior,Offline,No,No,7.1
+MID0157,IT,Standup,Sarah Bowman,49,55,66,2025-01-04,13:24,Director,Offline,Yes,No,7.1
+MID0158,Marketing,Client Call,Michele Brooks,34,88,16,2025-02-18,09:57,Mid,Online,Yes,Yes,5.2
+MID0159,Marketing,Standup,Jesus Davidson,46,172,90,2025-12-04,16:32,Mid,Hybrid,No,No,4
+MID0160,Engineering,Strategy Meeting,Paige Lopez,42,46,62,2025-06-02,11:45,Director,Offline,No,No,8.2
+MID0161,IT,Project Review,Robert Wright,43,151,49,2025-08-07,09:47,Mid,Online,Yes,Yes,3.7
+MID0162,IT,Team Sync,Kenneth Davis,37,68,116,2025-08-09,12:38,Junior,Offline,No,No,6.9
+MID0163,Marketing,Client Call,Mrs. Joy Richard,46,90,105,2025-04-17,16:02,Senior,Online,Yes,No,4.3
+MID0164,Finance,Client Call,Karen Barnes,31,166,106,2025-01-01,09:30,Director,Hybrid,Yes,Yes,4
+MID0165,Finance,Project Review,Tammy White,8,43,91,2025-06-02,13:50,Senior,Online,No,No,8.7
+MID0166,HR,Standup,Michael Ayers,27,96,18,2025-11-23,16:03,Director,Hybrid,Yes,Yes,7
+MID0167,IT,Client Call,Jill Oliver,3,107,77,2025-08-04,15:20,Mid,Online,Yes,Yes,8.2
+MID0168,Sales,Project Review,Leroy Gilmore,39,48,57,2025-10-26,12:28,Junior,Online,No,Yes,6.2
+MID0169,Sales,Standup,James Morrison,9,136,77,2025-03-16,13:13,Director,Online,Yes,Yes,6.5
+MID0170,Operations,Strategy Meeting,Michael Santana,50,152,42,2025-11-01,09:12,Senior,Offline,Yes,Yes,5
+MID0171,Marketing,Standup,Lauren Mcgee,24,75,120,2025-09-08,11:53,Mid,Offline,No,No,7.2
+MID0172,Operations,Client Call,Brian Cardenas,36,68,66,2025-08-27,14:37,Junior,Online,Yes,No,5.2
+MID0173,Operations,Team Sync,Stacey Murray,37,134,108,2025-02-13,14:39,Junior,Hybrid,No,No,3.6
+MID0174,Operations,Team Sync,Elizabeth Silva,49,38,110,2025-11-30,12:52,Director,Online,No,Yes,6.2
+MID0175,Sales,Strategy Meeting,Darren Ortiz,39,101,105,2025-03-31,14:07,Director,Hybrid,Yes,No,5.9
+MID0176,Sales,Standup,Troy Mayer,37,134,67,2025-10-02,11:54,Manager,Offline,No,Yes,5.1
+MID0177,Operations,Project Review,Ms. Jennifer Brooks,46,151,115,2025-07-17,13:48,Director,Online,No,Yes,3.7
+MID0178,Finance,Client Call,Elizabeth Mayer,41,152,28,2025-04-03,15:56,Senior,Hybrid,Yes,Yes,2.9
+MID0179,Marketing,Training,Sylvia Larsen,14,79,31,2025-11-19,10:31,Manager,Online,Yes,Yes,6.9
+MID0180,Engineering,Standup,Jacob Noble,26,53,113,2025-04-21,14:11,Junior,Hybrid,No,Yes,8.4
+MID0181,Finance,Training,Steven Hughes,44,117,20,2025-07-07,14:02,Senior,Online,Yes,Yes,3.6
+MID0182,IT,Project Review,John Reilly,22,39,23,2025-10-03,14:29,Manager,Online,No,No,8.2
+MID0183,Finance,Strategy Meeting,Andrew Jimenez,45,165,96,2025-06-19,12:43,Manager,Offline,Yes,No,2.5
+MID0184,Engineering,Client Call,Linda Harvey,13,19,25,2025-12-02,10:34,Senior,Online,No,No,9.7
+MID0185,Marketing,Standup,Joel Hill,22,178,98,2025-01-06,15:25,Junior,Hybrid,No,Yes,3.9
+MID0186,Marketing,Client Call,Kathleen Giles,20,161,19,2025-01-08,09:40,Senior,Offline,No,Yes,5.7
+MID0187,Operations,Project Review,Nancy Hunt,19,125,111,2025-04-29,13:27,Manager,Offline,No,No,5.6
+MID0188,Marketing,Client Call,Timothy Ramos,38,84,78,2025-06-22,11:34,Manager,Hybrid,Yes,Yes,4.8
+MID0189,Sales,Client Call,Theresa Collins,24,126,48,2025-11-08,11:15,Junior,Online,No,Yes,5.9
+MID0190,IT,Team Sync,Annette Short,45,128,55,2025-09-09,10:09,Director,Offline,No,No,4.4
+MID0191,Engineering,Team Sync,Mark Fletcher,39,23,108,2025-08-26,08:47,Mid,Offline,No,Yes,6.7
+MID0192,Marketing,Strategy Meeting,Dan Lopez,5,118,31,2025-07-17,16:11,Senior,Hybrid,Yes,Yes,6.9
+MID0193,Sales,Standup,Jeremy Reyes,37,123,103,2025-03-16,12:00,Senior,Offline,Yes,Yes,5.7
+MID0194,Operations,Team Sync,Ashley Mathis,38,124,26,2025-12-23,12:55,Mid,Online,Yes,Yes,3.5
+MID0195,Engineering,Client Call,Sandra Mitchell,34,162,115,2025-06-07,13:24,Director,Hybrid,No,Yes,5.1
+MID0196,HR,Client Call,Edward Maldonado,20,45,102,2025-02-08,08:54,Mid,Hybrid,No,Yes,9.1
+MID0197,Marketing,Strategy Meeting,Taylor Daniel,6,52,50,2025-11-30,16:28,Senior,Offline,No,No,9.1
+MID0198,IT,Team Sync,Shane Cole,15,33,61,2025-01-24,12:45,Junior,Online,Yes,Yes,7.2
+MID0199,Engineering,Team Sync,James James,39,66,115,2025-07-23,09:00,Senior,Online,No,Yes,5.5
+MID0200,IT,Project Review,Juan Ross,44,142,95,2025-07-25,14:42,Manager,Offline,Yes,No,3.5
